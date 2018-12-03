@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".login" />
-        <activity android:name=".mesas"></activity>
+        <activity android:name=".mesas" />
     </application>
 
 </manifest>
