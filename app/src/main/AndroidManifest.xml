@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".login" />
         <activity android:name=".mesas" />
+        <activity android:name=".LeadsActivity" />
+        <activity android:name=".list_item_lead" />
     </application>
 
 </manifest>
