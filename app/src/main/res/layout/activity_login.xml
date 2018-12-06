@@ -29,10 +29,10 @@
             <ImageView
                 android:layout_width="240dp"
                 android:layout_height="200dp"
-                android:layout_marginTop="55dp"
                 android:layout_gravity="center_horizontal|center_vertical"
+                android:layout_marginTop="55dp"
                 android:layout_marginBottom="2dp"
-                android:src="@drawable/icono_login"/>
+                android:src="@drawable/icono" />
 
 
             <TextView
